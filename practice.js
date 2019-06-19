@@ -104,14 +104,11 @@ console.log(arrOfArrs[1][2]);
 
 //10 
 
-var top = ["music", "books", "movies", "whatever"];
-
-for(let i=0;i<top.length;i++)
-{
-console.log("My #"+[i+1]+" choice is "+top[i]+"");
-
+let arrOfChoices =['The Imitation Game','The Call','A Beautiful Mind','I am Legend','Taken']
+let suffixArr =['1st','2nd','3rd','4th','5th']
+for(var i=0;i<arrOfChoices.length;i++){
+console.log("My "+suffixArr[i]+" choice of movies is "+arrOfChoices[i] )
 }
-
 
 
 
