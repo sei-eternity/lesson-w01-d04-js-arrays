@@ -89,6 +89,7 @@ console.log(subArray[subArray.length - 1]);
 
 10.
 
-
+sorry did not solve it !!
+need more Time ,,
 
 
